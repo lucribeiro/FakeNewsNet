@@ -3,5 +3,14 @@
 
 code/__pycache__
 code/util/__pycache__
+code/resource_server/__pycache__
+
+code/resources/tweet_keys_file_lucrib.json
+
+dataset_oneline
 
 *.csv
+
+code/fakenewsnet_dataset
+code/*.out
+code/*.log
